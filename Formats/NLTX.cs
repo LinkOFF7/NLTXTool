@@ -11,6 +11,7 @@ using System.Drawing.Imaging;
 
 namespace nltx_tool
 {
+    //The Liar Princess and the Blind Prince (PSVita/Switch)
     internal class NLTX
     {
         //Header (0x80 bytes)
