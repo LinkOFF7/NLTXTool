@@ -25,7 +25,7 @@ namespace nltx_tool
         public Byte Unknown0x20 { get; set; } //count?
         public Byte Unknown0x21 { get; set; } //vita - 32, switch - 0
         public Int16 Unknown0x22 { get; set; } //vita - 256, switch - 0
-        public Int32 Unknown0x24 { get; set; } //sizeof(Int16)
+        public Int32 Unknown0x24 { get; set; } //65536
         public Int32 Unknown0x28 { get; set; } //zero
         public Int32 UncompressedSize { get; set; }
 
